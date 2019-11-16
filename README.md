@@ -4,15 +4,11 @@
 
 ## - Basic
 
-### Why Hyperledger? - IBM
-
-https://youtu.be/ZMMX2G77dvs
+### [Why Hyperledger?](https://youtu.be/ZMMX2G77dvs) - IBM
 
 
 
-### 하이퍼레저 패브릭 데모 - IBM
-
-https://youtu.be/rr-gubeAhPE
+### [하이퍼레저 패브릭 데모](https://youtu.be/rr-gubeAhPE) - IBM
 
 
 
@@ -32,6 +28,10 @@ https://youtu.be/rr-gubeAhPE
 12. Fabric Service Example - https://youtu.be/1BKLSiX36AQ
 13. Fabric Service Example 2 - https://youtu.be/AASzcwVmqSs
 14. Fabric Review - https://youtu.be/JehaDGsGY8I
+
+
+
+### [Hyperledger Fabric 1.4: Key Concepts](https://youtu.be/J_d9koUXFWk) - Blockchain Training Alliance
 
 
 
@@ -60,77 +60,63 @@ https://youtu.be/rr-gubeAhPE
 
 
 
-### 프라이빗 블록체인 하이퍼레저를 공부해보자! - IBM Developer 밋업
-
-https://youtu.be/smytS8dQCtk
+### [프라이빗 블록체인 하이퍼레저를 공부해보자!](https://youtu.be/smytS8dQCtk) - IBM Developer 밋업
 
 
 
-### 블록체인 오픈소스 ‘Hyperledger Fabric’ 이해와 사례 - 김상환 베리드 아키텍트 강의
-
-https://youtu.be/6QTNUPap22k
+### [블록체인 오픈소스 ‘Hyperledger Fabric’ 이해와 사례](https://youtu.be/6QTNUPap22k) - 김상환 베리드 아키텍트 강의
 
 
 
-### 하이퍼레저 패브릭 실습 특강 (Hyperledger Fabric Hands-On) - Alex G. Lee
-
-https://youtu.be/qrLqQ-ihVOU
+### [하이퍼레저 패브릭 실습 특강 (Hyperledger Fabric Hands-On)](https://youtu.be/qrLqQ-ihVOU) - Alex G. Lee
 
 
 
-### Hyperledger Fabric: Coding the Fabric with Node - Blockchain Technology Conference
-
-https://youtu.be/wMgWgd-LpVI
+### [Hyperledger Fabric: Coding the Fabric with Node](https://youtu.be/wMgWgd-LpVI) - Blockchain Technology Conference
 
 
 
-### Hyperledger Fabric 소개 및 첫 네트워크 구축하기 - 임미영, NDS
-
-https://github.com/hlkug/meetup/tree/master/201908
+### [Hyperledger Fabric 소개 및 첫 네트워크 구축하기](https://github.com/hlkug/meetup/tree/master/201908) - 임미영, NDS
 
 
 
-## - Advance
-
-### 하이퍼레저 패브릭 v1.3, v1.4 새로운 기능 - HLKUG
-
-https://www.slideshare.net/secret/ttCVeVwYQJQZn5
+### [Hyperledger Fabric - build first network](https://www.youtube.com/playlist?list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh) - Иван Ванков
 
 
 
-### Hyperledger Fabric 적용을 위한 Kafka 기술 - HLKUG
+## - Advanced
 
-https://www.slideshare.net/secret/m0K3eNYAKubU9q
-
-
-
-### Orderer와 Kafka - HLKUG
-
-https://www.slideshare.net/secret/MeXukI924TQHet
+### [하이퍼레저 패브릭 v1.3, v1.4 새로운 기능](https://www.slideshare.net/secret/ttCVeVwYQJQZn5) - HLKUG
 
 
 
-### 멀티 노드에서 하이퍼레저 패브릭 네트워크 구성하기 - HLKUG
-
-https://github.com/hlkug/meetup/tree/master/201903
+### [Hyperledger Fabric 적용을 위한 Kafka 기술](https://www.slideshare.net/secret/m0K3eNYAKubU9q) - HLKUG
 
 
 
-### 쿠버네티스 기반 하이퍼레저 패브릭 네트워크 구축하기 - HLKUG
-
-https://github.com/hlkug/meetup/tree/master/201904
+### [Orderer와 Kafka](https://www.slideshare.net/secret/MeXukI924TQHet) - HLKUG
 
 
 
-### 하이퍼레저 패브릭 1.4 기반의 캘리퍼 분산테스팅 환경 구축하기 - 김승광, KT
-
-https://github.com/hlkug/meetup/tree/master/201905
+### [멀티 노드에서 하이퍼레저 패브릭 네트워크 구성하기](https://github.com/hlkug/meetup/tree/master/201903) - HLKUG
 
 
 
-### 하이퍼레저 패브릭 FabToken Overview 및 실습 - HLKUG
+### [쿠버네티스 기반 하이퍼레저 패브릭 네트워크 구축하기](https://github.com/hlkug/meetup/tree/master/201904) - HLKUG
 
-https://github.com/hlkug/meetup/tree/master/201906
+
+
+### [하이퍼레저 패브릭 1.4 기반의 캘리퍼 분산테스팅 환경 구축하기](https://github.com/hlkug/meetup/tree/master/201905) - 김승광, KT
+
+
+
+### [하이퍼레저 패브릭 FabToken Overview 및 실습](https://github.com/hlkug/meetup/tree/master/201906) - HLKUG
+
+
+
+### [Wanchain at Hyperledger Member Summit 2019 in Tokyo](https://youtu.be/fJHqVT2obYA) - Wanchain
+
+
 
 
 
@@ -143,4 +129,33 @@ https://github.com/hlkug/meetup/tree/master/201906
 
 
 # Hyperledger Caliper
+
+
+
+# Hyperledger Sawtooth
+
+## - Basic
+
+### [Hyperledger Sawtooth 1.0 Architecture and App Development](https://youtu.be/uBebFQM49Xk) - Bitwise IO
+
+
+
+### Hyperledger Sawtooth - Hyperledger Hong Kong meetup - Edmund To
+
+- YouTube - https://youtu.be/d4tf5Ps4VLw
+- Slides - https://bit.ly/2PR1Oub
+
+
+
+### [Running Hyperledger Sawtooth in Production](https://youtu.be/nbHHMcB0W-o) - Duncan Johnston-watt & Kevin O'Donnell
+
+
+
+### [Hyperledger Sawtooth - Setting up Sawtooth on Ubuntu 16 04 & Installing Transaction Processor](https://youtu.be/moWkiI0z6U8) - John Jayasingh S
+
+
+
+### [Hyperledger Sawtooth Seafood Supply Chain Demo](https://youtu.be/q0T8qAyzY30) - Bitwise IO
+
+
 
