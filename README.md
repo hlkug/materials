@@ -168,7 +168,7 @@
 
 ### [Kubernetes 해부하기](https://drive.google.com/file/d/15_MfF43Vb4OG0wr_UsnvUnPCQZrQY9ID/view?fbclid=IwAR0hzeT2gGD3GFfa8PRT6mGVuwt0RpcZhc0Y2WhwvY56mi-jP7xIu0RYYTI) - 김동현, AWSKRUG 판교
 
-### [Helm - Yaml 정글 탈출하기](https://www.dropbox.com/s/n868fu4xab9vvsl/Helm으로 Yaml정글 탈출하기_20190515.pdf?dl=0) - 장종호, AWSKRUG 판교
+### [Helm - Yaml 정글 탈출하기](http://bit.ly/2qqI0WJ) - 장종호, AWSKRUG 판교
 
 
 
