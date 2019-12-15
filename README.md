@@ -156,11 +156,15 @@
 
 ### [Security for Hyperledger Fabric - PKI, Cert, TLS, MSP](https://www.slideshare.net/mobile/secret/FeAiyfBQCBNksa) - HLKUG
 
+### [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls) - Lee Jihoon, LINE
+
 
 
 ## - Docker
 
 ### [도커와 쿠버네티스 기초](https://www.slideshare.net/secret/3J5KWinlXVpjtm), [실습](https://www.notion.so/c579f76ccd43456ca3a1d91b6160a104) - 최용호, AWSKRUG 판교
+
+### [Private Docker Registry를 구축하기 위한 오픈소스 Harbor 도입기](https://engineering.linecorp.com/ko/blog/harbor-for-private-docker-registry) - 이지현, LINE
 
 
 
@@ -169,6 +173,16 @@
 ### [Kubernetes 해부하기](https://drive.google.com/file/d/15_MfF43Vb4OG0wr_UsnvUnPCQZrQY9ID/view?fbclid=IwAR0hzeT2gGD3GFfa8PRT6mGVuwt0RpcZhc0Y2WhwvY56mi-jP7xIu0RYYTI) - 김동현, AWSKRUG 판교
 
 ### [Helm - Yaml 정글 탈출하기](http://bit.ly/2qqI0WJ) - 장종호, AWSKRUG 판교
+
+### [쿠버네티스를 활용한 블록체인 네트워크 구현(feat.CKAD)](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/?fbclid=IwAR3-3GInkXgz9KtWgt6trcwCLzT04X_5JgPo_WrDOdrhzy1_yTEvR7jtWgw) - 이지홍, LINE
+
+### [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster) - Lee Seung, LINE
+
+### [LINE 엔지니어를 지원하는 CaaS 기반 서비스의 현재와 미래](https://engineering.linecorp.com/ko/blog/japan-container-day-v18-12-report/) - Yuki Nishiwaki, LINE
+
+### [Kubernetes Forum Seoul 2019(영상)](https://www.youtube.com/watch?v=_GxkZ4S43oY&list=PLj6h78yzYM2OxLtNu5THSdKUj5vC_Thco), [일정](https://k8sforumseoul19kor.sched.com)- Linux Foundation
+
+### [kubeflow 소개 및 활용법](https://www.youtube.com/watch?v=szygR7G3ZY8), [실습 준비 사항](https://docs.google.com/presentation/d/1OGyuXAie9NzNbnUuEm1PstTYTohUdTOWUTpW62K1H-4/edit), [실습 영상](https://www.youtube.com/watch?v=cFXplM3IdyI) - 이명환
 
 
 
@@ -202,6 +216,14 @@
 
 ### [Kafka 모니터링을 위한 Metrics 이해](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/Kafka%20모니터링을%20위한%20Metrics%20이해.pdf) - 박상원, KafkaKRU
 
+### LINE에서 Kafka를 사용하는 방법
+
+* #### [1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/) - Kafka 클러스터의 신뢰성과 성능 확보를 위해 요청 수 제어하기
+
+* #### [2편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-2) - 실제 운영 환경에서 Kafka 클러스터의 성능을 저하시킨 원인과 검증 과정
+
+* #### [3편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-3) - 실제 운영 환경에서 Kafka 클러스터의 성능 저하 문제를 해결한 방법과 적용 결과
+
 
 
 ## - Elastic Stack
@@ -214,7 +236,25 @@
 
 ### [ElasticStack으로 서버 상태 체크하기](https://www.slideshare.net/secret/uWyH4rf0MTtIO3), [실습](https://www.notion.so/ElasticStack-2-Metricbeat-ebd83e53c477411390c9d511991d6d39) - 최용호, AWSKRUG 판교
 
+### [엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자](https://engineering.linecorp.com/ko/blog/excel-to-elastic) - yasunori.kuji, LINE
 
+
+
+## - Node.js
+
+### [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs) - Sungil Jo, LINE
+
+
+
+## - Prometheus
+
+### [Promgen은 알림을 어떻게 전달할까요?](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/) - Kazuki Nkajima, LINE
+
+
+
+## - 기타
+
+### [LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/) - YongChang Kwon, LINE
 
 
 
