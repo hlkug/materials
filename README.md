@@ -150,6 +150,44 @@
 
 
 
+# R3 Corda
+
+## - Training
+
+### [Key Concept slides](https://github.com/corda/corda-training-materialsTraining) 
+
+### [template application](https://github.com/roger3cev/corda-training-template)
+
+### [Free Training](https://r3.lessonly.com/path/5150-corda-key-concepts/login?view=signupCorda)
+
+### [Certification](https://corda-certification.myshopify.com/products/corda-standard-certification-test)
+
+## - Templates
+
+### [Java Template](https://github.com/corda/cordapp-template-java)
+
+### [Kotlin Template](https://github.com/corda/cordapp-template-kotlin)
+
+## - Dev Resources
+
+### https://www.corda.net/develop
+
+### [Documentation](https://docs.corda.net/)
+
+### [Corda Developer Documentation](https://docs.corda.net/_static/corda-developer-site.pdf)
+
+### [Stack Overflow](https://stackoverflow.com/questions/tagged/corda)
+
+### [Public Slack Community](https://slack.corda.net)
+
+### [Github](https://github.com/corda)
+
+### API reference - [Java](https://docs.corda.net/api/javadoc/index.html), [Kotlin](https://docs.corda.net/api/kotlin/corda/index.html)
+
+### Whitepaper - [Introductory](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf), [Technical Whitepaper](https://docs.corda.net/head/_static/corda-technical-whitepaper.pdf)
+
+
+
 # Miscellaneous
 
 ## - Security
@@ -190,13 +228,13 @@
 
 ### [Kafka의 탄생과 생태계](https://github.com/kafkakru/meetup/raw/master/mini-meetup/1st-mini-meetup/Kafka의_탄생과_생태계.pdf) - 남지열, KafkaKRU
 
+### [빅 데이터 처리를 위한 아파치 Kafka 개요 및 설명](https://blog.voidmainvoid.net/179) - 원영's
+
+### [아파치 카프카 강의 - #1 소개 및 개요](https://blog.voidmainvoid.net/276), [#2 토픽이란? 토픽의 기능 소개](https://blog.voidmainvoid.net/275) - 원영's
+
 ### [Kafka 생태계 들여다보기](https://github.com/kafkakru/meetup/raw/master/mini-meetup/1st-mini-meetup/Kafka-생태계-들여다보기.pdf) - 이동진, KafkaKRU
 
-### [How to utilize KAFKA more efficiently](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/How%20to%20utilize%20KAFKA%20more%20efficiently.pdf) - 고승범, KafkaKRU
-
 ### [Kafka를 활용한 캐시 로그 처리](https://github.com/kafkakru/meetup/raw/master/mini-meetup/2nd-mini-meetup/Kafka를%20활용한%20캐시%20로그%20처리.pdf) - 김현준, KafkaKRU
-
-### [Kafka를 활용한 Elasticsearch 실무프로젝트 소개](https://github.com/kafkakru/meetup/raw/master/mini-meetup/2nd-mini-meetup/Kafka를%20활용한%20Elasticsearch%20실무프로젝트%20소개.pdf) - 이은학, KafkaKRU
 
 ### [Kafka를 활용한 rabbitmq 로그 처리](https://github.com/kafkakru/meetup/raw/master/mini-meetup/2nd-mini-meetup/Kafka를%20활용한%20rabbitmq%20로그%20처리.pdf) - 정원빈, KafkaKRU
 
@@ -204,17 +242,7 @@
 
 ### [Kafka 프로듀서 & 컨슈머](https://github.com/kafkakru/meetup/raw/master/mini-meetup/2nd-mini-meetup/Kafka%20프로듀서%20%26%20컨슈머.pdf) - 강한구, KafkaKRU
 
-### [kafka+elk를 활용한 글로벌 서비스 쿼리 모니터링](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/kafka%2Belk를활용한글로벌서비스쿼리모니터링.pdf) - 현충헌, KafkaKRU
-
-### [Apache kafka 모니터링을 위한 Metrics 이해 및 최적화 방안](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/Apache%20kafka%20모니터링을%20위한%20Metrics%20이해%20및%20최적화%20방안.pdf) - 박상원, KafkaKRU
-
-### [카프카 기반의 대규모 모니터링 플랫폼 개발이야기](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/카프카%20기반의%20대규모%20모니터링%20플랫폼%20개발이야기.pdf) - 임성국, KafkaKRU
-
-### [KSQL vs Kafka Streams](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/KSQL%20vs%20Kafka%20Streams.pdf) - Mark Teehan
-
 ### [From Zero to Hero with Kafka Connect](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/From%20Zero%20to%20Hero%20with%20Kafka%20Connect.pdf) - Mark Teehan
-
-### [Kafka 모니터링을 위한 Metrics 이해](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/Kafka%20모니터링을%20위한%20Metrics%20이해.pdf) - 박상원, KafkaKRU
 
 ### LINE에서 Kafka를 사용하는 방법
 
@@ -223,6 +251,50 @@
 * #### [2편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-2) - 실제 운영 환경에서 Kafka 클러스터의 성능을 저하시킨 원인과 검증 과정
 
 * #### [3편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-3) - 실제 운영 환경에서 Kafka 클러스터의 성능 저하 문제를 해결한 방법과 적용 결과
+
+### [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299) - 원영's
+
+### [카프카를 쿠버네티스 위에 올리는게 좋은 선택일까?](https://blog.voidmainvoid.net/280?category=698302) - 원영's
+
+### [링크드인에서 사용중인 커스텀 Kafka 공개](https://blog.voidmainvoid.net/273) - 원영's
+
+### [Airbnb에서 Kafka의 활용](https://blog.voidmainvoid.net/272) - 원영's
+
+### 성능
+
+- #### [Apache Kafka에서 topic의 partition 개수 줄이는 방법?](https://blog.voidmainvoid.net/183) - 원영's
+
+- #### [How to utilize KAFKA more efficiently](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/How%20to%20utilize%20KAFKA%20more%20efficiently.pdf) - 고승범, KafkaKRU
+
+- #### [아파치 Kafka Producer의 데이터 처리 내부 architecture 설명 및 튜닝포인트](https://blog.voidmainvoid.net/180) - 원영's
+
+- #### [아파치 Kafka Consumer의 데이터 처리 내부 architecture 설명 및 튜닝포인트](https://blog.voidmainvoid.net/181) - 원영's
+
+### 모니터링
+
+- #### [Apache kafka 모니터링을 위한 Metrics 이해 및 최적화 방안](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/Apache%20kafka%20모니터링을%20위한%20Metrics%20이해%20및%20최적화%20방안.pdf) - 박상원, KafkaKRU
+
+- #### [Kafka 모니터링을 위한 Metrics 이해](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/Kafka%20모니터링을%20위한%20Metrics%20이해.pdf) - 박상원, KafkaKRU
+
+- #### [카프카 기반의 대규모 모니터링 플랫폼 개발이야기](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/카프카%20기반의%20대규모%20모니터링%20플랫폼%20개발이야기.pdf) - 임성국, KafkaKRU
+
+- #### [아파치 카프카 Lag 모니터링 대시보드 만들기](https://blog.voidmainvoid.net/279) - 원영's
+
+### Elastic Stack
+
+- #### [Kafka를 활용한 Elasticsearch 실무프로젝트 소개](https://github.com/kafkakru/meetup/raw/master/mini-meetup/2nd-mini-meetup/Kafka를%20활용한%20Elasticsearch%20실무프로젝트%20소개.pdf) - 이은학, KafkaKRU
+
+- #### [kafka+elk를 활용한 글로벌 서비스 쿼리 모니터링](https://github.com/kafkakru/meetup/raw/master/mini-meetup/3rd-mini-meetup/kafka%2Belk를활용한글로벌서비스쿼리모니터링.pdf) - 현충헌, KafkaKRU
+
+### KSQL
+
+- #### [KSQL 소개](https://blog.voidmainvoid.net/275) - 원영's
+
+- #### [Kafka의 KSQL 컨셉, 아키텍쳐, 용어, 커스텀 function 적용하는 방법](https://blog.voidmainvoid.net/271) - 원영's
+
+- #### [KSQL - Docker을 사용한 KSQL server, cli 설치 및 실행](https://blog.voidmainvoid.net/183) - 원영's
+
+- #### [KSQL vs Kafka Streams](https://github.com/kafkakru/meetup/raw/master/conference/1st-conference/KSQL%20vs%20Kafka%20Streams.pdf) - Mark Teehan
 
 
 
