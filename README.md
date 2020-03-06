@@ -1,13 +1,17 @@
 Table of Contents
 =================
 
+   * [Hyperledger](#hyperledger)
+      * [<a href="https://www.slideshare.net/secret/QvuBEUtHfAXPp" rel="nofollow">Hyperledger 재단 및 Project 소개</a> - 이제응, The Linux Foundation Korea](#hyperledger-재단-및-project-소개---이제응-the-linux-foundation-korea)
+      * [<a href="https://youtu.be/ZMMX2G77dvs" rel="nofollow">Why Hyperledger?</a> - IBM](#why-hyperledger---ibm)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/7b/Kiva HGF 2020.pptx" rel="nofollow">Building Identity and Credit Solutions for the Developing World Using Hyperledger Technology</a> - Alan Krassowski, Kiva](#building-identity-and-credit-solutions-for-the-developing-world-using-hyperledger-technology---alan-krassowski-kiva)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/28/Real-World-Blockchain-Deployment-B.pdf" rel="nofollow">No Pain, No Blockchain: Reducing the Complexity of Network Deployment</a> - Ed Kazmierczak, Penta Global](#no-pain-no-blockchain-reducing-the-complexity-of-network-deployment---ed-kazmierczak-penta-global)
    * [Hyperledger Fabric](#hyperledger-fabric)
       * [Basic](#basic)
-         * [<a href="https://www.slideshare.net/secret/QvuBEUtHfAXPp" rel="nofollow">Hyperledger 재단 및 Project 소개</a> - 이제응, The Linux Foundation Korea](#hyperledger-재단-및-project-소개---이제응-the-linux-foundation-korea)
-         * [<a href="https://youtu.be/ZMMX2G77dvs" rel="nofollow">Why Hyperledger?</a> - IBM](#why-hyperledger---ibm)
          * [<a href="https://youtu.be/rr-gubeAhPE" rel="nofollow">하이퍼레저 패브릭 데모</a> - IBM](#하이퍼레저-패브릭-데모---ibm)
          * [Hyperledger Fabric 개념 - dapp campus](#hyperledger-fabric-개념---dapp-campus)
          * [<a href="https://youtu.be/J_d9koUXFWk" rel="nofollow">Hyperledger Fabric 1.4: Key Concepts</a> - Blockchain Training Alliance](#hyperledger-fabric-14-key-concepts---blockchain-training-alliance)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/c2/HyperledgerFabric101-HGF2020.pdf" rel="nofollow">Hyperledger Fabric 2.0 101</a> - Swetha Repakula &amp; Morgan Bauer, IBM](#hyperledger-fabric-20-101---swetha-repakula--morgan-bauer-ibm)
          * [블록체인과 하이퍼레저 패브릭 - 박승철](#블록체인과-하이퍼레저-패브릭---박승철)
          * [하이퍼레저 패브릭 튜토리얼 - 양경성](#하이퍼레저-패브릭-튜토리얼---양경성)
          * [Hyperledger - Team Jupeter](#hyperledger---team-jupeter)
@@ -29,12 +33,17 @@ Table of Contents
          * [<a href="https://www.slideshare.net/mobile/kyungseoklee2/fabric-highthroughtput/kyungseoklee2/fabric-highthroughtput" rel="nofollow">Fabric high-throughput</a> - 이경석, 겜퍼](#fabric-high-throughput---이경석-겜퍼)
          * [<a href="https://www.slideshare.net/secret/9ITJPBJ8AH7z9w" rel="nofollow">Hyperledger Fabric 코인 및 Dapps 사례</a> - 이동준, INBLOCK](#hyperledger-fabric-코인-및-dapps-사례---이동준-inblock)
          * [<a href="https://github.com/hlkug/meetup/tree/master/201904">쿠버네티스 기반 Hyperledger Fabric 30분만에 맛보기</a> - HLKUG](#쿠버네티스-기반-hyperledger-fabric-30분만에-맛보기---hlkug)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/df/HGF2020 Architecting Production-worthy Solutions with Hyperledger Fabric.pdf" rel="nofollow">Architecting Production-worthy Solutions with Hyperledger Fabric</a> - Eduardo Garcia &amp; Michael Klein, Accenture](#architecting-production-worthy-solutions-with-hyperledger-fabric---eduardo-garcia--michael-klein-accenture)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/c4/Practical_Tools_for_Enterprise_Uses_of_Fabric.pub.pdf" rel="nofollow">Practical Tools for Enterprise Uses of Hyperledger Fabric</a> – Ledger Verification and System Operations - Satoshi Oshima, Hitachi America, Ltd.](#practical-tools-for-enterprise-uses-of-hyperledger-fabric--ledger-verification-and-system-operations---satoshi-oshima-hitachi-america-ltd)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/63/Hyperledger_Global_Forum_everis_NTTData_v1.pdf" rel="nofollow">IoT Blockchain: An Ongoing Project in Production</a> - Roberto Fernandez Hergueta, everis NTT Data Company](#iotblockchain-an-ongoing-project-in-production---roberto-fernandez-hergueta-everis-ntt-data-company)
    * [Hyperledger Besu](#hyperledger-besu)
       * [<a href="https://www.slideshare.net/secret/jIKJfk1vzk3O6P" rel="nofollow">Hyperledger Besu 소개</a> - HLKUG](#hyperledger-besu-소개---hlkug)
    * [Hyperledger Indy](#hyperledger-indy)
       * [<a href="https://github.com/hlkug/meetup/tree/master/201910">DID(Decentralized Identity) 그리고 Hyperledger Indy - Getting Started</a> - HLKUG](#diddecentralized-identity-그리고-hyperledger-indy---getting-started---hlkug)
    * [Hyperledger Caliper](#hyperledger-caliper)
       * [<a href="https://github.com/hlkug/meetup/tree/master/201905">하이퍼레저 패브릭 1.4 기반의 캘리퍼 분산테스팅 환경 구축하기</a> - 김승광, KT](#하이퍼레저-패브릭-14-기반의-캘리퍼-분산테스팅-환경-구축하기---김승광-kt)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/34/Hyperledger_GlobalForum_PPT_Jason_You_Caliper_GUI.pdf" rel="nofollow">Hyperledger Caliper Dashboard: A User Friendly Tool for Visualizing and Configuring Hyperledger Blockchain Benchmarks</a> - Jason You, Purdue Grad Student](#hyperledger-caliper-dashboard-a-user-friendly-tool-for-visualizing-and-configuring-hyperledger-blockchain-benchmarks---jason-you-purdue-grad-student)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/08/HyperledgerGlobalForum_Caliper.pdf" rel="nofollow">Hyperledger Caliper: A Benchmark Tool For Multiple Technologies</a> - Nick Lincoln, IBM](#hyperledger-caliper-a-benchmark-tool-for-multiple-technologies---nick-lincoln-ibm)
    * [Hyperledger Sawtooth](#hyperledger-sawtooth)
       * [Basic](#basic-1)
          * [<a href="https://youtu.be/uBebFQM49Xk" rel="nofollow">Hyperledger Sawtooth 1.0 Architecture and App Development</a> - Bitwise IO](#hyperledger-sawtooth-10-architecture-and-app-development---bitwise-io)
@@ -42,6 +51,12 @@ Table of Contents
          * [<a href="https://youtu.be/nbHHMcB0W-o" rel="nofollow">Running Hyperledger Sawtooth in Production</a> - Duncan Johnston-watt &amp; Kevin O'Donnell](#running-hyperledger-sawtooth-in-production---duncan-johnston-watt--kevin-odonnell)
          * [<a href="https://youtu.be/moWkiI0z6U8" rel="nofollow">Hyperledger Sawtooth - Setting up Sawtooth on Ubuntu 16 04 &amp; Installing Transaction Processor</a> - John Jayasingh S](#hyperledger-sawtooth---setting-up-sawtooth-on-ubuntu-16-04--installing-transaction-processor---john-jayasingh-s)
          * [<a href="https://youtu.be/q0T8qAyzY30" rel="nofollow">Hyperledger Sawtooth Seafood Supply Chain Demo</a> - Bitwise IO](#hyperledger-sawtooth-seafood-supply-chain-demo---bitwise-io)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/75/Hyperledger Sawtooth Smart Contract Development.pdf" rel="nofollow">Hyperledger Sawtooth: A Step By Step Guide to Advanced Smart-Contract Development</a> - Arun S M, Walmart Labs &amp; Manjunath A C, Intel](#hyperledger-sawtooth-a-step-by-step-guide-to-advanced-smart-contract-development---arun-s-m-walmart-labs--manjunath-a-c-intel)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/b7/20200302_HGF_Presentation_vfinal.pdf" rel="nofollow">End-to-end Pork Meat Traceability with Unilever - A Live Enterprise Production Use Case on Hyperledger Sawtooth</a> - Ricardo Garcia, ScanTrust SA](#end-to-end-pork-meat-traceability-with-unilever---a-live-enterprise-production-use-case-on-hyperledger-sawtooth---ricardo-garcia-scantrust-sa)
+   * [Hyperledger Avalon](#hyperledger-avalon)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/e3/HLGF-AvalonWorkshop-T.pdf" rel="nofollow">Hands-on Experience with Avalon on How to Bridge On-chain and Off-chain Worlds</a> - Yevgeniy Yarmosh &amp; Dan Anderson, Intel](#hands-on-experience-with-avalon-on-how-to-bridge-on-chain-and-off-chain-worlds---yevgeniy-yarmosh--dan-anderson-intel)
+   * [Interoperability](#interoperability)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/6c/Connecting_Ecosystems_Blockchain_Interoperability_-_Giuseppe Giordano_and_Peter_Somogyvari_Accenture.pdf" rel="nofollow">Connecting Ecosystems: Blockchain Interoperability</a> - Hart Montgomery, Fujitsu Laboratories of America &amp; Peter Somogyvari, Accenture](#connecting-ecosystems-blockchain-interoperability---hart-montgomery-fujitsu-laboratories-of-america--peter-somogyvari-accenture)
    * [R3 Corda](#r3-corda)
       * [Training](#training)
          * [<a href="https://github.com/corda/corda-training-materialsTraining">Key Concept slides</a>](#key-concept-slides)
@@ -126,13 +141,21 @@ Table of Contents
 
 
 
+# Hyperledger
+
+## [Hyperledger 재단 및 Project 소개](https://www.slideshare.net/secret/QvuBEUtHfAXPp) - 이제응, The Linux Foundation Korea
+
+## [Why Hyperledger?](https://youtu.be/ZMMX2G77dvs) - IBM
+
+## [Building Identity and Credit Solutions for the Developing World Using Hyperledger Technology](https://static.sched.com/hosted_files/hgf20/7b/Kiva%20HGF%202020.pptx) - Alan Krassowski, Kiva
+
+## [No Pain, No Blockchain: Reducing the Complexity of Network Deployment](https://static.sched.com/hosted_files/hgf20/28/Real-World-Blockchain-Deployment-B.pdf) - Ed Kazmierczak, Penta Global
+
+
+
 # Hyperledger Fabric
 
 ## Basic
-
-### [Hyperledger 재단 및 Project 소개](https://www.slideshare.net/secret/QvuBEUtHfAXPp) - 이제응, The Linux Foundation Korea
-
-### [Why Hyperledger?](https://youtu.be/ZMMX2G77dvs) - IBM
 
 ### [하이퍼레저 패브릭 데모](https://youtu.be/rr-gubeAhPE) - IBM
 
@@ -169,6 +192,8 @@ Table of Contents
     
 
 ### [Hyperledger Fabric 1.4: Key Concepts](https://youtu.be/J_d9koUXFWk) - Blockchain Training Alliance
+
+### [Hyperledger Fabric 2.0 101](https://static.sched.com/hosted_files/hgf20/c2/HyperledgerFabric101-HGF2020.pdf) - Swetha Repakula & Morgan Bauer, IBM
 
 
 
@@ -235,6 +260,12 @@ Table of Contents
 
 ### [쿠버네티스 기반 Hyperledger Fabric 30분만에 맛보기](https://github.com/hlkug/meetup/tree/master/201904) - HLKUG
 
+### [Architecting Production-worthy Solutions with Hyperledger Fabric](https://static.sched.com/hosted_files/hgf20/df/HGF2020%20Architecting%20Production-worthy%20Solutions%20with%20Hyperledger%20Fabric.pdf) - Eduardo Garcia & Michael Klein, Accenture
+
+### [Practical Tools for Enterprise Uses of Hyperledger Fabric](https://static.sched.com/hosted_files/hgf20/c4/Practical_Tools_for_Enterprise_Uses_of_Fabric.pub.pdf) – Ledger Verification and System Operations - Satoshi Oshima, Hitachi America, Ltd.
+
+### [IoT+Blockchain: An Ongoing Project in Production](https://static.sched.com/hosted_files/hgf20/63/Hyperledger_Global_Forum_everis_NTTData_v1.pdf) - Roberto Fernandez Hergueta, everis NTT Data Company
+
 
 
 # Hyperledger Besu
@@ -252,6 +283,10 @@ Table of Contents
 # Hyperledger Caliper
 
 ## [하이퍼레저 패브릭 1.4 기반의 캘리퍼 분산테스팅 환경 구축하기](https://github.com/hlkug/meetup/tree/master/201905) - 김승광, KT
+
+## [Hyperledger Caliper Dashboard: A User Friendly Tool for Visualizing and Configuring Hyperledger Blockchain Benchmarks](https://static.sched.com/hosted_files/hgf20/34/Hyperledger_GlobalForum_PPT_Jason_You_Caliper_GUI.pdf) - Jason You, Purdue Grad Student
+
+## [Hyperledger Caliper: A Benchmark Tool For Multiple Technologies](https://static.sched.com/hosted_files/hgf20/08/HyperledgerGlobalForum_Caliper.pdf) - Nick Lincoln, IBM
 
 
 
@@ -273,6 +308,22 @@ Table of Contents
 ### [Hyperledger Sawtooth - Setting up Sawtooth on Ubuntu 16 04 & Installing Transaction Processor](https://youtu.be/moWkiI0z6U8) - John Jayasingh S
 
 ### [Hyperledger Sawtooth Seafood Supply Chain Demo](https://youtu.be/q0T8qAyzY30) - Bitwise IO
+
+### [Hyperledger Sawtooth: A Step By Step Guide to Advanced Smart-Contract Development](https://static.sched.com/hosted_files/hgf20/75/Hyperledger%20Sawtooth%20Smart%20Contract%20Development.pdf) - Arun S M, Walmart Labs & Manjunath A C, Intel
+
+### [End-to-end Pork Meat Traceability with Unilever - A Live Enterprise Production Use Case on Hyperledger Sawtooth](https://static.sched.com/hosted_files/hgf20/b7/20200302_HGF_Presentation_vfinal.pdf) - Ricardo Garcia, ScanTrust SA
+
+
+
+# Hyperledger Avalon
+
+## [Hands-on Experience with Avalon on How to Bridge On-chain and Off-chain Worlds](https://static.sched.com/hosted_files/hgf20/e3/HLGF-AvalonWorkshop-T.pdf) - Yevgeniy Yarmosh & Dan Anderson, Intel
+
+
+
+# Interoperability
+
+## [Connecting Ecosystems: Blockchain Interoperability](https://static.sched.com/hosted_files/hgf20/6c/Connecting_Ecosystems_Blockchain_Interoperability_-_Giuseppe%20Giordano_and_Peter_Somogyvari_Accenture.pdf) - Hart Montgomery, Fujitsu Laboratories of America & Peter Somogyvari, Accenture
 
 
 
