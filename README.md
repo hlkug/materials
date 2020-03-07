@@ -6,6 +6,9 @@ Table of Contents
       * [<a href="https://youtu.be/ZMMX2G77dvs" rel="nofollow">Why Hyperledger?</a> - IBM](#why-hyperledger---ibm)
       * [<a href="https://static.sched.com/hosted_files/hgf20/7b/Kiva HGF 2020.pptx" rel="nofollow">Building Identity and Credit Solutions for the Developing World Using Hyperledger Technology</a> - Alan Krassowski, Kiva](#building-identity-and-credit-solutions-for-the-developing-world-using-hyperledger-technology---alan-krassowski-kiva)
       * [<a href="https://static.sched.com/hosted_files/hgf20/28/Real-World-Blockchain-Deployment-B.pdf" rel="nofollow">No Pain, No Blockchain: Reducing the Complexity of Network Deployment</a> - Ed Kazmierczak, Penta Global](#no-pain-no-blockchain-reducing-the-complexity-of-network-deployment---ed-kazmierczak-penta-global)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/90/All are Welcome Here_ Creating an Inclusive Hyperledger Community.pdf" rel="nofollow">All Are Welcome Here: Creating an Inclusive Hyperledger Community</a> - Swetha Repakula, IBM &amp; Tracy Kuhrt, Accenture](#all-are-welcome-here-creating-an-inclusive-hyperledger-community---swetha-repakula-ibm--tracy-kuhrt-accenture)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/8a/10 challenges and best practices-HGF-20200304.pdf" rel="nofollow">View from the Trenches: Practical Issues In Enterprise Blockchain Implementations and Potential Solutions</a> - Baohua Yang, Oracle](#view-from-the-trenches-practical-issues-in-enterprise-blockchain-implementations-and-potential-solutions---baohua-yang-oracle)
+      * [<a href="https://static.sched.com/hosted_files/hgf20/2d/Mir - Hyperledger - Mar2020.pdf" rel="nofollow">Mir-BFT: A Scalable High-Throughput BFT for Blockchains</a> - Marko Vukolic, IBM](#mir-bft-a-scalable-high-throughput-bft-for-blockchains---marko-vukolic-ibm)
    * [Hyperledger Fabric](#hyperledger-fabric)
       * [Basic](#basic)
          * [<a href="https://youtu.be/rr-gubeAhPE" rel="nofollow">하이퍼레저 패브릭 데모</a> - IBM](#하이퍼레저-패브릭-데모---ibm)
@@ -36,6 +39,9 @@ Table of Contents
          * [<a href="https://static.sched.com/hosted_files/hgf20/df/HGF2020 Architecting Production-worthy Solutions with Hyperledger Fabric.pdf" rel="nofollow">Architecting Production-worthy Solutions with Hyperledger Fabric</a> - Eduardo Garcia &amp; Michael Klein, Accenture](#architecting-production-worthy-solutions-with-hyperledger-fabric---eduardo-garcia--michael-klein-accenture)
          * [<a href="https://static.sched.com/hosted_files/hgf20/c4/Practical_Tools_for_Enterprise_Uses_of_Fabric.pub.pdf" rel="nofollow">Practical Tools for Enterprise Uses of Hyperledger Fabric</a> – Ledger Verification and System Operations - Satoshi Oshima, Hitachi America, Ltd.](#practical-tools-for-enterprise-uses-of-hyperledger-fabric--ledger-verification-and-system-operations---satoshi-oshima-hitachi-america-ltd)
          * [<a href="https://static.sched.com/hosted_files/hgf20/63/Hyperledger_Global_Forum_everis_NTTData_v1.pdf" rel="nofollow">IoT Blockchain: An Ongoing Project in Production</a> - Roberto Fernandez Hergueta, everis NTT Data Company](#iotblockchain-an-ongoing-project-in-production---roberto-fernandez-hergueta-everis-ntt-data-company)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/21/FPC for HGF -- MB-JL v0229 rc4.pdf" rel="nofollow">Fabric Private Chaincode: Enhancing Privacy in Hyperledger Fabric using Trusted Execution Environments</a> - Jeb Linton, IBM &amp; Mic Bowman, Intel](#fabric-private-chaincode-enhancing-privacy-in-hyperledger-fabric-using-trusted-execution-environments---jeb-linton-ibm--mic-bowman-intel)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/6d/DmitryBarinov_Fabric and Aries .pdf" rel="nofollow">How Hyperledger Fabric and Hyperledger Aries are Helping to Bring Control and Trust Back to Digital Identity</a> - Dmitry Barinov, SecureKey Technologies](#how-hyperledger-fabric-and-hyperledger-aries-are-helping-to-bring-control-and-trust-back-to-digital-identity---dmitry-barinov-securekey-technologies)
+         * [<a href="https://static.sched.com/hosted_files/hgf20/b1/FPC Demo.pdf" rel="nofollow">Demo: Fabric Private Chaincode</a> - Bruno Vavala, Intel &amp; Marcus Brandenburger, IBM Corp.](#demo-fabric-private-chaincode---bruno-vavala-intel--marcus-brandenburger-ibm-corp)
    * [Hyperledger Besu](#hyperledger-besu)
       * [<a href="https://www.slideshare.net/secret/jIKJfk1vzk3O6P" rel="nofollow">Hyperledger Besu 소개</a> - HLKUG](#hyperledger-besu-소개---hlkug)
    * [Hyperledger Indy](#hyperledger-indy)
@@ -151,6 +157,12 @@ Table of Contents
 
 ## [No Pain, No Blockchain: Reducing the Complexity of Network Deployment](https://static.sched.com/hosted_files/hgf20/28/Real-World-Blockchain-Deployment-B.pdf) - Ed Kazmierczak, Penta Global
 
+## [All Are Welcome Here: Creating an Inclusive Hyperledger Community](https://static.sched.com/hosted_files/hgf20/90/All%20are%20Welcome%20Here_%20Creating%20an%20Inclusive%20Hyperledger%20Community.pdf) - Swetha Repakula, IBM & Tracy Kuhrt, Accenture
+
+## [View from the Trenches: Practical Issues In Enterprise Blockchain Implementations and Potential Solutions](https://static.sched.com/hosted_files/hgf20/8a/10%20challenges%20and%20best%20practices-HGF-20200304.pdf) - Baohua Yang, Oracle
+
+## [Mir-BFT: A Scalable High-Throughput BFT for Blockchains](https://static.sched.com/hosted_files/hgf20/2d/Mir%20-%20Hyperledger%20-%20Mar2020.pdf) - Marko Vukolic, IBM
+
 
 
 # Hyperledger Fabric
@@ -265,6 +277,12 @@ Table of Contents
 ### [Practical Tools for Enterprise Uses of Hyperledger Fabric](https://static.sched.com/hosted_files/hgf20/c4/Practical_Tools_for_Enterprise_Uses_of_Fabric.pub.pdf) – Ledger Verification and System Operations - Satoshi Oshima, Hitachi America, Ltd.
 
 ### [IoT+Blockchain: An Ongoing Project in Production](https://static.sched.com/hosted_files/hgf20/63/Hyperledger_Global_Forum_everis_NTTData_v1.pdf) - Roberto Fernandez Hergueta, everis NTT Data Company
+
+### [Fabric Private Chaincode: Enhancing Privacy in Hyperledger Fabric using Trusted Execution Environments](https://static.sched.com/hosted_files/hgf20/21/FPC%20for%20HGF%20--%20MB-JL%20v0229%20rc4.pdf) - Jeb Linton, IBM & Mic Bowman, Intel
+
+### [How Hyperledger Fabric and Hyperledger Aries are Helping to Bring Control and Trust Back to Digital Identity](https://static.sched.com/hosted_files/hgf20/6d/DmitryBarinov_Fabric%20and%20Aries%20.pdf) - Dmitry Barinov, SecureKey Technologies
+
+### [Demo: Fabric Private Chaincode](https://static.sched.com/hosted_files/hgf20/b1/FPC%20Demo.pdf) - Bruno Vavala, Intel & Marcus Brandenburger, IBM Corp.
 
 
 
