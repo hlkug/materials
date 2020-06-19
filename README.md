@@ -1,6 +1,7 @@
 Table of Contents
 =================
 
+   * [Table of Contents](#table-of-contents)
    * [Hyperledger](#hyperledger)
       * [<a href="https://www.slideshare.net/secret/QvuBEUtHfAXPp" rel="nofollow">Hyperledger 재단 및 Project 소개</a> - 이제응, The Linux Foundation Korea](#hyperledger-재단-및-project-소개---이제응-the-linux-foundation-korea)
       * [<a href="https://youtu.be/ZMMX2G77dvs" rel="nofollow">Why Hyperledger?</a> - IBM](#why-hyperledger---ibm)
@@ -9,6 +10,7 @@ Table of Contents
       * [<a href="https://static.sched.com/hosted_files/hgf20/90/All are Welcome Here_ Creating an Inclusive Hyperledger Community.pdf" rel="nofollow">All Are Welcome Here: Creating an Inclusive Hyperledger Community</a> - Swetha Repakula, IBM &amp; Tracy Kuhrt, Accenture](#all-are-welcome-here-creating-an-inclusive-hyperledger-community---swetha-repakula-ibm--tracy-kuhrt-accenture)
       * [<a href="https://static.sched.com/hosted_files/hgf20/8a/10 challenges and best practices-HGF-20200304.pdf" rel="nofollow">View from the Trenches: Practical Issues In Enterprise Blockchain Implementations and Potential Solutions</a> - Baohua Yang, Oracle](#view-from-the-trenches-practical-issues-in-enterprise-blockchain-implementations-and-potential-solutions---baohua-yang-oracle)
       * [<a href="https://static.sched.com/hosted_files/hgf20/2d/Mir - Hyperledger - Mar2020.pdf" rel="nofollow">Mir-BFT: A Scalable High-Throughput BFT for Blockchains</a> - Marko Vukolic, IBM](#mir-bft-a-scalable-high-throughput-bft-for-blockchains---marko-vukolic-ibm)
+      * [<a href="https://youtu.be/i1QZXNn06zk" rel="nofollow">Benefits of Blockchain on Supply Chain Efficiency</a> - Hyperledger Meeup Africa #1](#benefits-of-blockchain-on-supply-chain-efficiency---hyperledger-meeup-africa-1)
    * [Hyperledger Fabric](#hyperledger-fabric)
       * [Basic](#basic)
          * [<a href="https://youtu.be/rr-gubeAhPE" rel="nofollow">하이퍼레저 패브릭 데모</a> - IBM](#하이퍼레저-패브릭-데모---ibm)
@@ -44,6 +46,9 @@ Table of Contents
          * [<a href="https://static.sched.com/hosted_files/hgf20/b1/FPC Demo.pdf" rel="nofollow">Demo: Fabric Private Chaincode</a> - Bruno Vavala, Intel &amp; Marcus Brandenburger, IBM Corp.](#demo-fabric-private-chaincode---bruno-vavala-intel--marcus-brandenburger-ibm-corp)
    * [Hyperledger Besu](#hyperledger-besu)
       * [<a href="https://www.slideshare.net/secret/jIKJfk1vzk3O6P" rel="nofollow">Hyperledger Besu 소개</a> - HLKUG](#hyperledger-besu-소개---hlkug)
+      * [PegaSys: How to launch a CBDC on the Ethereum Blockchain](#pegasys-how-to-launch-a-cbdc-on-the-ethereum-blockchain)
+         * [<a href="https://bit.ly/3hDe6Vb" rel="nofollow">발표자료</a>](#발표자료)
+         * [<a href="https://youtu.be/OcehJLZx-L8" rel="nofollow">발표영상</a>](#발표영상)
    * [Hyperledger Indy](#hyperledger-indy)
       * [<a href="https://github.com/hlkug/meetup/tree/master/201910">DID(Decentralized Identity) 그리고 Hyperledger Indy - Getting Started</a> - HLKUG](#diddecentralized-identity-그리고-hyperledger-indy---getting-started---hlkug)
    * [Hyperledger Caliper](#hyperledger-caliper)
@@ -61,6 +66,9 @@ Table of Contents
          * [<a href="https://static.sched.com/hosted_files/hgf20/b7/20200302_HGF_Presentation_vfinal.pdf" rel="nofollow">End-to-end Pork Meat Traceability with Unilever - A Live Enterprise Production Use Case on Hyperledger Sawtooth</a> - Ricardo Garcia, ScanTrust SA](#end-to-end-pork-meat-traceability-with-unilever---a-live-enterprise-production-use-case-on-hyperledger-sawtooth---ricardo-garcia-scantrust-sa)
    * [Hyperledger Avalon](#hyperledger-avalon)
       * [<a href="https://static.sched.com/hosted_files/hgf20/e3/HLGF-AvalonWorkshop-T.pdf" rel="nofollow">Hands-on Experience with Avalon on How to Bridge On-chain and Off-chain Worlds</a> - Yevgeniy Yarmosh &amp; Dan Anderson, Intel](#hands-on-experience-with-avalon-on-how-to-bridge-on-chain-and-off-chain-worlds---yevgeniy-yarmosh--dan-anderson-intel)
+   * [Hyperledger Cactus](#hyperledger-cactus)
+      * [<a href="https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus" rel="nofollow">새 프로젝트 Hyperledger Cactus 소개</a> - 6월 11일 온라인 개최 Hyperledger Tokyo Meetup](#새-프로젝트-hyperledger-cactus-소개---6월-11일-온라인-개최-hyperledger-tokyo-meetup)
+      * [<a href="https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-fabric-235475731" rel="nofollow">“엔터프라이즈 블록체인 기반 중 하나로서 Hyperledger Fabric의 강점과 과제”</a> - 6월 11일 온라인 개최 Hyperledger Tokyo Meetup](#엔터프라이즈-블록체인-기반-중-하나로서-hyperledger-fabric의-강점과-과제---6월-11일-온라인-개최-hyperledger-tokyo-meetup)
    * [Interoperability](#interoperability)
       * [<a href="https://static.sched.com/hosted_files/hgf20/6c/Connecting_Ecosystems_Blockchain_Interoperability_-_Giuseppe Giordano_and_Peter_Somogyvari_Accenture.pdf" rel="nofollow">Connecting Ecosystems: Blockchain Interoperability</a> - Hart Montgomery, Fujitsu Laboratories of America &amp; Peter Somogyvari, Accenture](#connecting-ecosystems-blockchain-interoperability---hart-montgomery-fujitsu-laboratories-of-america--peter-somogyvari-accenture)
    * [R3 Corda](#r3-corda)
@@ -162,6 +170,8 @@ Table of Contents
 ## [View from the Trenches: Practical Issues In Enterprise Blockchain Implementations and Potential Solutions](https://static.sched.com/hosted_files/hgf20/8a/10%20challenges%20and%20best%20practices-HGF-20200304.pdf) - Baohua Yang, Oracle
 
 ## [Mir-BFT: A Scalable High-Throughput BFT for Blockchains](https://static.sched.com/hosted_files/hgf20/2d/Mir%20-%20Hyperledger%20-%20Mar2020.pdf) - Marko Vukolic, IBM
+
+## [Benefits of Blockchain on Supply Chain Efficiency](https://youtu.be/i1QZXNn06zk) - Hyperledger Meeup Africa #1
 
 
 
@@ -290,6 +300,12 @@ Table of Contents
 
 ## [Hyperledger Besu 소개](https://www.slideshare.net/secret/jIKJfk1vzk3O6P) - HLKUG
 
+## PegaSys: How to launch a CBDC on the Ethereum Blockchain
+
+* ### [발표자료](https://bit.ly/3hDe6Vb)
+
+* ### [발표영상](https://youtu.be/OcehJLZx-L8)
+
 
 
 # Hyperledger Indy
@@ -336,6 +352,14 @@ Table of Contents
 # Hyperledger Avalon
 
 ## [Hands-on Experience with Avalon on How to Bridge On-chain and Off-chain Worlds](https://static.sched.com/hosted_files/hgf20/e3/HLGF-AvalonWorkshop-T.pdf) - Yevgeniy Yarmosh & Dan Anderson, Intel
+
+
+
+# Hyperledger Cactus
+
+## [새 프로젝트 Hyperledger Cactus 소개](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus) - 6월 11일 온라인 개최 Hyperledger Tokyo Meetup
+
+## [“엔터프라이즈 블록체인 기반 중 하나로서 Hyperledger Fabric의 강점과 과제”](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-fabric-235475731) - 6월 11일 온라인 개최 Hyperledger Tokyo Meetup
 
 
 
