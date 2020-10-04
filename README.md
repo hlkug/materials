@@ -1,7 +1,6 @@
 Table of Contents
 =================
 
-   * [Table of Contents](#table-of-contents)
    * [Hyperledger](#hyperledger)
       * [<a href="https://www.slideshare.net/secret/QvuBEUtHfAXPp" rel="nofollow">Hyperledger 재단 및 Project 소개</a> - 이제응, The Linux Foundation Korea](#hyperledger-재단-및-project-소개---이제응-the-linux-foundation-korea)
       * [<a href="https://youtu.be/ZMMX2G77dvs" rel="nofollow">Why Hyperledger?</a> - IBM](#why-hyperledger---ibm)
@@ -17,6 +16,7 @@ Table of Contents
          * [Hyperledger Fabric 개념 - dapp campus](#hyperledger-fabric-개념---dapp-campus)
          * [<a href="https://youtu.be/J_d9koUXFWk" rel="nofollow">Hyperledger Fabric 1.4: Key Concepts</a> - Blockchain Training Alliance](#hyperledger-fabric-14-key-concepts---blockchain-training-alliance)
          * [<a href="https://static.sched.com/hosted_files/hgf20/c2/HyperledgerFabric101-HGF2020.pdf" rel="nofollow">Hyperledger Fabric 2.0 101</a> - Swetha Repakula &amp; Morgan Bauer, IBM](#hyperledger-fabric-20-101---swetha-repakula--morgan-bauer-ibm)
+         * [Hyperledger Fabric 2.0 - 한국폴리텍대학 스마트금융과](#hyperledger-fabric-20---한국폴리텍대학-스마트금융과)
          * [블록체인과 하이퍼레저 패브릭 - 박승철](#블록체인과-하이퍼레저-패브릭---박승철)
          * [하이퍼레저 패브릭 튜토리얼 - 양경성](#하이퍼레저-패브릭-튜토리얼---양경성)
          * [Hyperledger - Team Jupeter](#hyperledger---team-jupeter)
@@ -216,6 +216,18 @@ Table of Contents
 ### [Hyperledger Fabric 1.4: Key Concepts](https://youtu.be/J_d9koUXFWk) - Blockchain Training Alliance
 
 ### [Hyperledger Fabric 2.0 101](https://static.sched.com/hosted_files/hgf20/c2/HyperledgerFabric101-HGF2020.pdf) - Swetha Repakula & Morgan Bauer, IBM
+
+
+
+### Hyperledger Fabric 2.0 - 한국폴리텍대학 스마트금융과
+
+1. [1강] 하이퍼레저 패브릭 2.0 설치하기 - https://youtu.be/yHUtCUPvK58
+2. [2강] Build Your First Network 살펴보기 - https://youtu.be/P2v2SnWYJ8E
+3. [3강] Chaincode Dev Mode 실습 (1/2) - https://youtu.be/DylZjZjaaCU
+4. [4강] Chaincode Dev Mode 실습 (2/2) - https://youtu.be/_W0LC9rBd1w
+5. [5강] Balance Transfer 살펴보기 - https://youtu.be/zTtIDXjXLJY
+6. [6강] IBM BlockChain 개발도구 설치하기 - https://youtu.be/0i_10fcs1DY
+7. [7강] 하이퍼레저 패브릭 기반 투표 시스템 예제 - https://youtu.be/GgZS7scqk0s
 
 
 
